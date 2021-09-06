@@ -1,6 +1,6 @@
 import React, {Component,Fragment}from 'react';
 import {Container,Row,Col} from "react-bootstrap";
-import BG from '../../asset/images/Background.jpg'
+import BG from '../../asset/images/Background.png'
 
 
 class Courses extends Component {

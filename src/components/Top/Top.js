@@ -7,9 +7,9 @@ class Top extends Component {
       
         return (
             <Fragment>
-  
-           <Container fluid className="topBanner ">
-               <div className="topBannerOverly">
+          
+           <Container fluid className="topBanner">
+             <div className="topBannerOverly">
                    <Container className="topContent">
                        <Row>
                            <Col className="text-center">
@@ -25,9 +25,6 @@ class Top extends Component {
                    </Container>
 
                </div>
-
-
-
 
 
            </Container>

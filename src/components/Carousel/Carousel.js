@@ -1,6 +1,6 @@
 import React, {Component,Fragment}from 'react';
 import {Container,Row,Col,Card,Button} from "react-bootstrap";
-import BG from '../../asset/images/Background.jpg'
+import BG from '../../asset/images/Background.png'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";

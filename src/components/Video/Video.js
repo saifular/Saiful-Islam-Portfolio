@@ -4,7 +4,7 @@ import { faPlayCircle } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import 'video-react/dist/video-react.css';
 import { Player ,BigPlayButton} from 'video-react';
-import BG from '../../asset/images/Background.jpg'
+import BG from '../../asset/images/Background.png'
 
 
 class Video extends Component {
